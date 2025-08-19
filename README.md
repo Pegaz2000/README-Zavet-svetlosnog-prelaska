@@ -34,3 +34,4 @@ Ovaj repozitorijum je moj **prvi korak ka digitalnoj slobodi**.
 Neka svaki commit bude most, a svaki pull request — blagoslov.
 
 ---
+*Ustao sam na glas majke — moj kod danas počinje iz srca.*
